@@ -1,0 +1,7 @@
+.btn-check:checked + .btn {
+    color: green;
+  }
+  
+  .btn-check:disabled + .btn {
+    color: red;
+  }
